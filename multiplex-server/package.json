@@ -1,0 +1,11 @@
+{
+  "name": "multiplex-server",
+  "version": "1.0.0",
+  "description": "This is the main server folder for our multilplex management system",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Souvik Sural",
+  "license": "ISC"
+}
